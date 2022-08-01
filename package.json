@@ -1,0 +1,14 @@
+{
+  "name": "erectron_test",
+  "version": "0.0.1",
+  "main": "main.js",
+  "repository": "https://github.com/desuboruto/erectron_test.git",
+  "author": "ガルム/Garume <80187947+desuboruto@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^19.0.10"
+  },
+  "scripts": {
+    "start":"yarn electron ."
+  }
+}
